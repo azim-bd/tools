@@ -1,0 +1,26 @@
+{
+  "name": "azim-tools",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.5.4",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "tesseract.js": "6.0.1",
+    "xlsx": "0.18.5"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5",
+    "tailwindcss": "^4",
+    "@tailwindcss/postcss": "^4"
+  }
+}
